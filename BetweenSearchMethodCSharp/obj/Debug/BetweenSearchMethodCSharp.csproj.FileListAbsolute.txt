@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\bin\Debug\BetweenSearchMethodCSharp.exe.config
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\bin\Debug\BetweenSearchMethodCSharp.exe
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\bin\Debug\BetweenSearchMethodCSharp.pdb
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\obj\Debug\BetweenSearchMethodCSharp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\obj\Debug\BetweenSearchMethodCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\obj\Debug\BetweenSearchMethodCSharp.exe
+C:\Users\user\source\repos\BetweenSearchMethodCSharp\BetweenSearchMethodCSharp\obj\Debug\BetweenSearchMethodCSharp.pdb
